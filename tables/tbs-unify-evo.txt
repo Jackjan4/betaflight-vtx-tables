@@ -1,0 +1,3 @@
+vtxtable powerlevels 4
+vtxtable powervalues  14 20 26 29
+vtxtable powerlabels 25 100 400 800
