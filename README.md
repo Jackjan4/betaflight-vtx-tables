@@ -1,0 +1,1 @@
+betaflight-vtx-tables
