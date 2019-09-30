@@ -1,6 +1,6 @@
 ## Betaflight VTX tables
 
-This project serves as a repository for Betaflight VTX-Tables which were introduce to the public in Betaflight 4.1.
+This project serves as a repository for Betaflight VTX-Tables which were introduced to the public in Betaflight 4.1.
 The aim of this is to contain readymade VTX-Tables for all the VTX out there.
 
 ## Download
