@@ -1,5 +1,5 @@
 {
-    "description": "Betaflight VTX Config file for SmartAudio 1.0 (US version)",
+    "description": "Betaflight VTX Config file for Eachine XF5804 (Unlocked/Global version)",
     "version": "1.0",
     "vtx_table": {
         "bands_list": [
@@ -90,7 +90,7 @@
             },
             {
                 "value": 25,
-                "label": "500"
+                "label": "600"
             }
         ]
     }
