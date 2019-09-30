@@ -1,1 +1,1 @@
-betaflight-vtx-tables
+## Betaflight VTX tables
