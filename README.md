@@ -6,8 +6,7 @@ The aim of this is to contain readymade VTX-Tables for all the VTX out there.
 ## Download
 
 [Eachine](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/eachine)
-
-TBS
+[TBS](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/tbs)
 
 
 ## Disclaimer
