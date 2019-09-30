@@ -9,7 +9,7 @@ The aim of this is to contain readymade VTX-Tables for all the VTX out there.
 [TBS](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/tbs)
 [ImmersionRC](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/immersionrc)
 
-**How to install:** Go to BetaFlight -> Video Transmitter -> Load From File -> Choose downloaded json file
+**How to install:** Go to BetaFlight -> Video Transmitter -> Load From File (Bottom Right) -> Choose downloaded json file
 
 
 ## Disclaimer
