@@ -24,6 +24,11 @@ T-Motor |
 **How to install:** Go to BetaFlight -> Video Transmitter -> Load From File (Bottom Right) -> Choose downloaded json file
 
 
+## Contributing
+
+This is a community effort, so feel free to create Pull requests or Issues to let me now, if something is missing or is wrong. If you want your VTX added, create an Issue with your specific model and maybe a link where it can be bought.
+
+
 ## Disclaimer
 
 This project is not associated with Betaflight or other software in any way. This is a private project created by me, Jackjan (Jan).
