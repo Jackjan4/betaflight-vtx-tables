@@ -5,11 +5,12 @@ The aim of this is to contain readymade VTX-Tables for all the VTX out there.
 
 ## Download
 
-[Eachine](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/eachine)
-[TBS](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/tbs)
-[ImmersionRC](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/immersionrc)
 [Caddx](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/caddx)
+[Eachine](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/eachine)
 [Happymodel](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/happymodel)
+[ImmersionRC](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/immersionrc)
+[TBS](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/tbs)
+
 
 **How to install:** Go to BetaFlight -> Video Transmitter -> Load From File (Bottom Right) -> Choose downloaded json file
 
