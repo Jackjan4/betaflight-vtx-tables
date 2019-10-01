@@ -18,6 +18,7 @@ RUSH |
 RunCam |
 [TBS](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/tbs) |
 T-Motor |
+(Search for your preffered file and right click it ""
 
 
 **How to install:** Go to BetaFlight -> Video Transmitter -> Load From File (Bottom Right) -> Choose downloaded json file
