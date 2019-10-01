@@ -5,7 +5,7 @@ The aim of this is to contain readymade VTX-Tables for all the VTX out there.
 
 ## Download
 
-AKK |
+[AKK](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/akk) |
 Aomway |
 [Caddx](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/caddx) |
 [Eachine](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/eachine) |
@@ -22,6 +22,11 @@ T-Motor |
 
 
 **How to install:** Go to BetaFlight -> Video Transmitter -> Load From File (Bottom Right) -> Choose downloaded json file
+
+
+## Contributing
+
+This is a community effort, so feel free to create Pull requests or Issues to let me now, if something is missing or is wrong. If you want your VTX added, create an Issue with your specific model and maybe a link where it can be bought.
 
 
 ## Disclaimer
