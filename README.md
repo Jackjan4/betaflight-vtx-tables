@@ -10,14 +10,14 @@ Aomway |
 [Caddx](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/caddx) |
 [Eachine](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/eachine) |
 FuriousFPV |
-FXT
-[Happymodel](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/happymodel)
-iFlight
-[ImmersionRC](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/immersionrc)
-RUSH
-RunCam
-[TBS](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/tbs)
-T-Motor
+FXT |
+[Happymodel](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/happymodel) |
+iFlight |
+[ImmersionRC](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/immersionrc) |
+RUSH |
+RunCam |
+[TBS](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/tbs) |
+T-Motor |
 
 
 **How to install:** Go to BetaFlight -> Video Transmitter -> Load From File (Bottom Right) -> Choose downloaded json file
