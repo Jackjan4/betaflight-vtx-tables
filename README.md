@@ -5,13 +5,13 @@ The aim of this is to contain readymade VTX-Tables for all the VTX out there.
 
 ## Download
 
-AKK()
+AKK
 [Caddx](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/caddx)
 [Eachine](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/eachine)
 [Happymodel](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/happymodel)
-[iFlight]()
+iFlight
 [ImmersionRC](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/immersionrc)
-[RUSH]()
+RUSH
 [TBS](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/tbs)
 
 
