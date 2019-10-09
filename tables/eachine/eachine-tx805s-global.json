@@ -1,5 +1,5 @@
 {
-    "description": "Betaflight VTX Config file for Eachine XF5804 (Unlocked/Global version)",
+    "description": "Betaflight VTX Config file for Eachine TX805S (Unlocked/Global version)",
     "version": "1.0",
     "vtx_table": {
         "bands_list": [
