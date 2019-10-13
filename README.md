@@ -26,6 +26,7 @@ T-Motor |
 
 
 **What do "global", "fcc" or "eu" mean in the table filenames?**
+
 Global: Unlocked VTX. All Power Levels, All Frequencies. Mostly not legal in the EU or in FCC regions.
 FCC: Frequencies disabled that are not legal in FCC regions. (This mostly affects the BOSCAM E band)
 EU: Frequencies and power levels disabled that are not legal in the EU.
