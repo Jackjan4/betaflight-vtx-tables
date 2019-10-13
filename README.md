@@ -9,6 +9,7 @@ The aim of this is to contain readymade VTX-Tables for all the VTX out there.
 Aomway |
 [Caddx](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/caddx) |
 [Eachine](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/eachine) |
+[EMAX](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/emax) |
 FuriousFPV |
 FXT |
 [Happymodel](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/happymodel) |
