@@ -4,12 +4,12 @@ In this document, VTX are listed that have been tested to work with our VTX tabl
 
 ## List
 
-#Caddx
+### Caddx
 - Caddx Beetle V2
 - Caddx Firefly
 
 
-# Eachine
+### Eachine
 - Trashcan Stock VTX
 - Eachine Tyro79 Stock VTX
 - Eachine Tyro69 Stock VTX
