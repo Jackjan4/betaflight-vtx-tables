@@ -15,6 +15,7 @@ FXT |
 [Happymodel](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/happymodel) |
 iFlight |
 [ImmersionRC](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/immersionrc) |
+[RDQ](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/rdq) |
 RUSH |
 RunCam |
 [TBS](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/tbs) |
