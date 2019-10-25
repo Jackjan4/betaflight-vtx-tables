@@ -15,12 +15,13 @@ FXT |
 [Happymodel](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/happymodel) |
 iFlight |
 [ImmersionRC](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/immersionrc) |
+[RDQ](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/rdq) |
 RUSH |
 RunCam |
 [TBS](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/tbs) |
 T-Motor |
 
-(Search for your prefered file, right click it and choose "Save Link as...")
+(Search for your prefered file, click it and right click "Raw" and choose "Save Link as...")
 
 
 **How to install:** Go to BetaFlight -> Video Transmitter -> Load From File (Bottom Right) -> Choose downloaded json file
@@ -28,7 +29,7 @@ T-Motor |
 
 
  
-**What do "global", "fcc" or "eu" mean in the table filenames?**
+## **What do "global", "fcc" or "eu" mean in the table filenames?**
 
 Global: Unlocked VTX. All Power Levels, All Frequencies. Mostly not legal in the EU or in FCC regions.
 
