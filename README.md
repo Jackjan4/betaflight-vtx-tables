@@ -38,9 +38,10 @@ FCC: Frequencies disabled that are not legal in FCC regions. (This mostly affect
 EU: Frequencies and power levels disabled that are not legal in the EU.
 
 
-## Contributing
 
-This is a community effort, so feel free to create Pull requests or Issues to let me now, if something is missing or is wrong. If you want your VTX added or you need a table for your region, create an Issue with your specific model and maybe a link where it can be bought.
+## Contributing / Can't find your VTX?
+
+This is a community effort, so feel free to create Pull requests or Issues to let me now, if something is missing or is wrong. If you want your VTX added or you need a table for your region, create an issue with your specific model and maybe a link where it can be bought.
 
 
 ## Disclaimer
