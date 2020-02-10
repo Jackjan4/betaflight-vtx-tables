@@ -33,7 +33,7 @@ T-Motor |
 
 Global: Unlocked VTX. All Power Levels, All Frequencies. Mostly not legal in the EU or in FCC regions.
 
-FCC: Frequencies disabled that are not legal in FCC regions. (This mostly affects the BOSCAM E band)
+FCC: Frequencies disabled that are not legal in FCC regions. (This mostly affects the BOSCAM E band and "Low Bands")
 
 EU: Frequencies and power levels disabled that are not legal in the EU.
 
