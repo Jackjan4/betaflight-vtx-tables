@@ -16,7 +16,7 @@ FXT |
 [iFlight](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/iflight) |
 [ImmersionRC](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/immersionrc) |
 [RDQ](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/rdq) |
-RUSH |
+[RUSH](tables/rush) |
 RunCam |
 [TBS](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/tbs) |
 T-Motor |

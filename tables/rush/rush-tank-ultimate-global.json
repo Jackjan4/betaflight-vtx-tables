@@ -1,0 +1,116 @@
+{
+    "description": "Betaflight VTX Config file for Rush Tank Ultimate (Unlocked/Global version)",
+    "version": "1.0",
+    "vtx_table": {
+        "bands_list": [
+            {
+                "name": "BAND_A  ",
+                "letter": "A",
+                "is_factory_band": true,
+                "frequencies": [
+                    5865,
+                    5845,
+                    5825,
+                    5805,
+                    5785,
+                    5765,
+                    5745,
+                    5725
+                ]
+            },
+            {
+                "name": "BAND_B  ",
+                "letter": "B",
+                "is_factory_band": true,
+                "frequencies": [
+                    5733,
+                    5752,
+                    5771,
+                    5790,
+                    5999,
+                    5828,
+                    5847,
+                    5866
+                ]
+            },
+            {
+                "name": "BAND_E  ",
+                "letter": "E",
+                "is_factory_band": true,
+                "frequencies": [
+                    5705,
+                    5685,
+                    5665,
+                    5645,
+                    5885,
+                    5905,
+                    5925,
+                    5945
+                ]
+            },
+            {
+                "name": "AIRWAVE ",
+                "letter": "F",
+                "is_factory_band": true,
+                "frequencies": [
+                    5740,
+                    5760,
+                    5780,
+                    5800,
+                    5820,
+                    5840,
+                    5860,
+                    5880
+                ]
+            },
+            {
+                "name": "RACEBAND",
+                "letter": "R",
+                "is_factory_band": true,
+                "frequencies": [
+                    5658,
+                    5695,
+                    5732,
+                    5769,
+                    5806,
+                    5843,
+                    5880,
+                    5917
+                ]
+            },
+            {
+                "name": "LOWRACE ",
+                "letter": "L",
+                "is_factory_band": true,
+                "frequencies": [
+                    5362,
+                    5399,
+                    5436,
+                    5473,
+                    5510,
+                    5547,
+                    5584,
+                    5621
+                ]
+            }
+        ],
+        "powerlevels_list": [
+            {
+                "value": 0,
+                "label": "25 "
+            },
+            {
+                "value": 1,
+                "label": "200"
+            },
+            {
+                "value": 2,
+                "label": "500"
+            },
+            {
+                "value": 3,
+                "label": "800"
+            }
+        ]
+    }
+}
