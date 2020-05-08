@@ -1,0 +1,67 @@
+{
+    "description": "Betaflight VTX Config file for TBS Unify Pro32 5G8 Nano (EU version)",
+    "version": "1.0",
+    "vtx_table": {
+        "bands_list": [
+            {
+                "name": "BOSCAM_A",
+                "letter": "A",
+                "is_factory_band": true,
+                "frequencies": [
+                    5865,
+                    5845,
+                    5825,
+                    5805,
+                    5785,
+                    5765,
+                    5745
+                ]
+            },
+            {
+                "name": "BOSCAM_B",
+                "letter": "B",
+                "is_factory_band": true,
+                "frequencies": [
+                    5733,
+                    5752,
+                    5771,
+                    5790,
+                    5809,
+                    5828,
+                    5847,
+                    5866
+                ]
+            },
+            {
+                "name": "FATSHARK",
+                "letter": "F",
+                "is_factory_band": true,
+                "frequencies": [
+                    5740,
+                    5760,
+                    5780,
+                    5800,
+                    5820,
+                    5840,
+                    5860
+                ]
+            },
+            {
+                "name": "RACEBAND",
+                "letter": "R",
+                "is_factory_band": true,
+                "frequencies": [
+                    5769,
+                    5806,
+                    5843
+                ]
+            }
+        ],
+        "powerlevels_list": [
+            {
+                "value": 14,
+                "label": "25"
+            }
+        ]
+    }
+}
