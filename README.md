@@ -5,20 +5,20 @@ The aim of this is to contain readymade VTX-Tables for all the VTX out there.
 
 ## Download
 
-[AKK](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/akk) |
+[AKK](/tables/akk) |
 Aomway |
-[Caddx](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/caddx) |
-[Eachine](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/eachine) |
-[EMAX](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/emax) |
+[Caddx](/tables/caddx) |
+[Eachine](/tables/eachine) |
+[EMAX](/tables/emax) |
 FuriousFPV |
 FXT |
-[Happymodel](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/happymodel) |
-[iFlight](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/iflight) |
-[ImmersionRC](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/immersionrc) |
-[RDQ](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/rdq) |
-RUSH |
+[Happymodel](/tables/happymodel) |
+[iFlight](/tables/iflight) |
+[ImmersionRC](/tables/immersionrc) |
+[RDQ](/tables/rdq) |
+[RUSH](tables/rush) |
 RunCam |
-[TBS](https://github.com/Jackjan4/betaflight-vtx-tables/tree/master/tables/tbs) |
+[TBS](/tables/tbs) |
 T-Motor |
 
 (Search for your prefered file, click it and right click "Raw" and choose "Save Link as...")
