@@ -1,5 +1,5 @@
 {
-    "description": "Betaflight VTX Config file for the Eachine Nano VTX (Unlocked/Global version)",
+    "description": "Betaflight VTX Config file for the Eachine Nano VTX (FCC version)",
     "version": "1.0",
     "vtx_table": {
         "bands_list": [
