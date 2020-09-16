@@ -1,5 +1,5 @@
 {
-    "description": "Betaflight VTX Config file for AKK X2 Ultimate International (Unlocked/Global version)",
+    "description": "Betaflight VTX Config file for AKK FX3 Ultimate International (Unlocked/Global version)",
     "version": "1.0",
     "vtx_table": {
         "bands_list": [
@@ -41,11 +41,11 @@
                     5705,
                     5685,
                     5665,
-                    0,
+                    5645,
                     5885,
                     5905,
-                    0,
-                    0
+                    5925,
+                    5945
                 ]
             },
             {
@@ -90,11 +90,11 @@
             },
             {
                 "value": 2,
-                "label": "600"
+                "label": "400"
             },
             {
                 "value": 3,
-                "label": "1W"
+                "label": "600"
             }
         ]
     }
