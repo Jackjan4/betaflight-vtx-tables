@@ -19,7 +19,7 @@ FXT |
 [RUSH](tables/rush) |
 RunCam |
 [TBS](/tables/tbs) |
-T-Motor |
+[T-Motor](/tables/t-motor) |
 
 (Search for your prefered file, click it and right click "Raw" and choose "Save Link as...")
 
