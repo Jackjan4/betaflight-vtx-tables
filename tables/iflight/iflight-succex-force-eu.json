@@ -1,5 +1,5 @@
 {
-    "description": "Betaflight VTX Config iFlight Micro Force IRC Tramp (EU version)",
+    "description": "Betaflight VTX Config for iFlight SucceX Force 800mW (IRC Tramp) (EU version)",
     "version": "1.0",
     "vtx_table": {
         "bands_list": [
