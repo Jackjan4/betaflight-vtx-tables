@@ -31,11 +31,11 @@ RunCam |
  
 ## **What do "global", "fcc" or "eu" mean in the table filenames?**
 
-Global: Unlocked VTX. All Power Levels, All Frequencies. Mostly not legal in the EU or in FCC regions.
+**Global:** Unlocked VTX. All Power Levels, All Frequencies. Mostly not legal in the EU or in FCC regions.
 
-FCC: Frequencies disabled that are not legal in FCC regions. (This mostly affects the BOSCAM E band and "Low Bands")
+**FCC:** Frequencies disabled that are not legal in FCC regions. (This mostly affects the BOSCAM E band and "Low Bands")
 
-EU: Frequencies and power levels disabled that are not legal in the EU.
+**EU:** Frequencies and power levels disabled that are not legal in the EU.
 
 
 
