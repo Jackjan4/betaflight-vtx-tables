@@ -1,10 +1,10 @@
 {
-    "description": "Betaflight VTX Config file",
+    "description": "Betaflight VTX Config file for T-Motor FT200 (Unlocked/Global version)",
     "version": "1.0",
     "vtx_table": {
         "bands_list": [
             {
-                "name": "BAND_A  ",
+                "name": "BOSCAM_A",
                 "letter": "A",
                 "is_factory_band": true,
                 "frequencies": [
@@ -49,7 +49,7 @@
                 ]
             },
             {
-                "name": "BAND_F  ",
+                "name": "FATSHARK",
                 "letter": "F",
                 "is_factory_band": true,
                 "frequencies": [
@@ -81,12 +81,20 @@
         ],
         "powerlevels_list": [
             {
-                "value": 0,
+                "value": 14,
                 "label": "25 "
             },
             {
-                "value": 1,
+                "value": 20,
+                "label": "50 "
+            },
+            {
+                "value": 26,
                 "label": "200"
+            },
+            {
+                "value": 30,
+                "label": "500"
             }
         ]
     }
