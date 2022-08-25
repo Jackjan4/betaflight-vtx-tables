@@ -1,5 +1,5 @@
 {
-    "description": "Betaflight VTX Config file",
+    "description": "Betaflight VTX Config file for EWRF e7082VM v12 (Unlocked/Global Version)",
     "version": "1.0",
     "vtx_table": {
         "bands_list": [
