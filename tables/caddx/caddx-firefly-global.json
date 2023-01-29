@@ -77,6 +77,21 @@
                     5880,
                     5917
                 ]
+            },
+            {
+                "name": "DIATONE ",
+                "letter": "D",
+                "is_factory_band": true,
+                "frequencies": [
+                    5362,
+                    5399,
+                    5436,
+                    5473,
+                    5510,
+                    5547,
+                    5584,
+                    5621
+                ]
             }
         ],
         "powerlevels_list": [
