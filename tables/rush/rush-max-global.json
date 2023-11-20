@@ -97,19 +97,19 @@
         "powerlevels_list": [
             {
                 "value": 0,
-                "label": "25  "
+                "label": "25 "
             },
             {
                 "value": 1,
-                "label": "500 "
+                "label": "500"
             },
             {
                 "value": 2,
-                "label": "1000"
+                "label": "1W"
             },
             {
                 "value": 3,
-                "label": "MAX "
+                "label": "MAX"
             }
         ]
     }
