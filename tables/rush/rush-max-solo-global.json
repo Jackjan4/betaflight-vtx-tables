@@ -6,7 +6,7 @@
             {
                 "name": "BAND_A  ",
                 "letter": "A",
-                "is_factory_band": true,
+                "is_factory_band": false,
                 "frequencies": [
                     5865,
                     5845,
@@ -21,7 +21,7 @@
             {
                 "name": "BAND_B  ",
                 "letter": "B",
-                "is_factory_band": true,
+                "is_factory_band": false,
                 "frequencies": [
                     5733,
                     5752,
@@ -36,7 +36,7 @@
             {
                 "name": "BAND_E  ",
                 "letter": "E",
-                "is_factory_band": true,
+                "is_factory_band": false,
                 "frequencies": [
                     5705,
                     5685,
@@ -51,7 +51,7 @@
             {
                 "name": "AIRWAVE ",
                 "letter": "F",
-                "is_factory_band": true,
+                "is_factory_band": false,
                 "frequencies": [
                     5740,
                     5760,
@@ -66,7 +66,7 @@
             {
                 "name": "RACEBAND",
                 "letter": "R",
-                "is_factory_band": true,
+                "is_factory_band": false,
                 "frequencies": [
                     5658,
                     5695,
@@ -81,7 +81,7 @@
             {
                 "name": "LOWRACE ",
                 "letter": "L",
-                "is_factory_band": true,
+                "is_factory_band": false,
                 "frequencies": [
                     5362,
                     5399,
@@ -96,20 +96,20 @@
         ],
         "powerlevels_list": [
             {
-                "value": 0,
+                "value": 14,
                 "label": "25 "
             },
             {
-                "value": 1,
+                "value": 27,
                 "label": "500"
             },
             {
-                "value": 2,
+                "value": 30,
                 "label": "1W"
             },
             {
-                "value": 3,
-                "label": "MAX"
+                "value": 34,
+                "label": "2.5W"
             }
         ]
     }
