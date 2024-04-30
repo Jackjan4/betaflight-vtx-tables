@@ -96,19 +96,19 @@
         ],
         "powerlevels_list": [
             {
-                "value": 0,
+                "value": 14,
                 "label": "25 "
             },
             {
-                "value": 1,
+                "value": 23,
                 "label": "200"
             },
             {
-                "value": 2,
+                "value": 27,
                 "label": "500"
             },
             {
-                "value": 3,
+                "value": 29,
                 "label": "800"
             }
         ]
