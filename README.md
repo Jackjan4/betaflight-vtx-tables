@@ -7,6 +7,7 @@ The aim of this is to contain readymade VTX-Tables for all the VTX out there.
 
 [AKK](/tables/akk) |
 Aomway |
+[BetaFPV](/tables/betafpv) |
 [Caddx](/tables/caddx) |
 [Eachine](/tables/eachine) |
 [EMAX](/tables/emax) |
