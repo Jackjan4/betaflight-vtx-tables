@@ -1,0 +1,37 @@
+{
+    "description": "Betaflight VTX Config file",
+    "version": "1.0",
+    "vtx_table": {
+        "bands_list": [
+            {
+                "name": "BOSCAM_A",
+                "letter": "A",
+                "is_factory_band": false,
+                "frequencies": [
+                    1220,
+                    1240,
+                    1258,
+                    1280,
+                    1320,
+                    1360,
+                    1400,
+                    1470
+                ]
+            }
+        ],
+        "powerlevels_list": [
+            {
+                "value": 25,
+                "label": "25 "
+            },
+            {
+                "value": 800,
+                "label": "800"
+            },
+            {
+                "value": 4500,
+                "label": "4W5"
+            }
+        ]
+    }
+}
